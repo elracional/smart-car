@@ -22,7 +22,7 @@ Posteriormente se continuó con la modificación del control remoto, se probó c
 Teniendo ya las entradas funcionando se continuó con la integración de la interfaz con el carro. Se conectó el arduino al circuito intermediario, teniendo comunicación entre computadora y el control remoto. Utilizando la interfaz comprobamos que ya era operable el control remoto con la computadora, utilizando las teclas de dirección para accionar los movimientos del coche.
 
 <p align="center">
-  <img src="images/figura1.jpg" width="350">
+  <img src="Images/figura1.jpg" width="350">
 </p>
 
 ### Autómata finito no determinista (AFND)
