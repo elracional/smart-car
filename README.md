@@ -136,10 +136,15 @@ Se completó la tarea de procesar correctamente un grafo introducido por el usua
   <img src="Images/figura4.jpg" width="350">
 </p>
 ### Development
+
 #### Building for source
+
 ### Docker
+
 #### Kubernetes + Google Cloud
+
 ### Todos
+
 License
 ----
 MIT
