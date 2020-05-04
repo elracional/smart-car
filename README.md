@@ -38,7 +38,7 @@ Posteriormente se prosiguió al desarrollar un intérprete para la interacción 
 La representación de este autómata de manera gráfica se muestra en la figura siguiente.
 
 <p align="center">
-  <img src="images/figura2.jpg" width="350">
+  <img src="Images/figura2.jpg" width="350">
 </p>
 
 En la imagen se puede observar la cantidad de estados que utilizaron, que en total fueron 23, los cuales nos ayudaron a poder validar las cadenas.
@@ -130,10 +130,10 @@ Se logró controlar correctamente el coche mediante la interfaz cargada en la co
 Se completó la tarea de procesar correctamente un grafo introducido por el usuario, para que con ello se pueda encontrar el camino más óptimo según el algoritmo elegido por el mismo usuario. Al obtener dicha solución del grafo, se hizo una simulación de recorrido de ésta mediante el movimiento del coche
 
 <p align="center">
-  <img src="images/figura3.jpg" width="350">
+  <img src="Images/figura3.jpg" width="350">
 </p>
 <p align="center">
-  <img src="images/figura4.jpg" width="350">
+  <img src="Images/figura4.jpg" width="350">
 </p>
 ### Development
 #### Building for source
